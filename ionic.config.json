@@ -1,0 +1,8 @@
+{
+  "name": "franwork",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "e559d0bb"
+}
